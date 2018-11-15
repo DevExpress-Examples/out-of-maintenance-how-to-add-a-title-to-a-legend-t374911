@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/LegendTitleSample/Form1.cs) (VB: [Form1.vb](./VB/LegendTitleSample/Form1.vb))**
+<!-- default file list end -->
 # How to: Add a title to a legend
 
 
